@@ -13,6 +13,8 @@
 2. [Setup](#Setup)
 3. [Installation](#Installation)
 4. [Overview](#Overview)
+5. [Conclusion](#Conclusion)
+6. [Glossary](#Glossary)
 
 ---
 
@@ -86,8 +88,28 @@
 
 ## Glossary
 
-
 ![2018 heatmap](Data/2018_heatmap.png)
+![2019 heatmap](Data/2019_heatmap.png)
+![2020 heatmap](Data/2020_heatmap.png)
+![2021 heatmap](Data/2021_heatmap.png)
+![2022 heatmap](Data/2022_heatmap.png)
+![Arrests by month per year](Data/Arrests_by_month_year.png)
+![Baltimore city arrests by month](Data/Baltimore_City_arrests_by_month.png)
+![Baltimore city arrests spots4to10](Data/Baltimore_City_arrests_spots4to10.png)
+![Narcotics vs handgun arrests](Data/narcotics_vs_handgun_arrests.png)
+![Stacked bar chart offenses](Data/stacked_bar_chart_offenses.png)
+![Top 3 charges 2018-2022](Data/top_3_charges_2018-2022].png)
+
+
+
+
+
+
+
+
+
+
+
 
 
 
