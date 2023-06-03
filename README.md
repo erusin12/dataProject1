@@ -78,7 +78,16 @@
 
 - Create a map to combine latitudes and longitudes ito list. Display the map
 
+---
 
+## Conclusion
+
+---
+
+## Glossary
+
+
+![2018 heatmap](Data/2018_heatmap.png)
 
 
 
