@@ -19,7 +19,7 @@
 ---
 
 ## Setup: 
--Import the dataset containing Baltimore Police Department arrest records
+- Import the dataset containing Baltimore Police Department arrest records
 - Clean and prepare the data by removing duplicates, missing values, and outlier detection techniques 
 - Conduct exploratory data analysis to gain insight into trends, distributions, and patterns 
 - Analyze the effect of different factors on the number of police department arrests 
