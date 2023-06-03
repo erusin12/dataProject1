@@ -8,7 +8,15 @@
 
 ---
 
-## Installation/setup: 
+## Directory
+1. [Project Description](#Project-Description)
+2. [Setup](#Setup)
+3. [Installation](#Installation)
+4. [Overview](#Overview)
+
+---
+
+## Setup: 
 -Import the dataset containing Baltimore Police Department arrest records
 - Clean and prepare the data by removing duplicates, missing values, and outlier detection techniques 
 - Conduct exploratory data analysis to gain insight into trends, distributions, and patterns 
@@ -18,7 +26,7 @@
 
 ---
 
-## Start Code
+## Installation
 
     #Dependencies and Setup
     import numpy as np
@@ -40,7 +48,7 @@
 
 ---
 
-## Description
+## Overview
 
 - Load the CSV file located on BPD website into a Pandas DataFrame and display data
 
