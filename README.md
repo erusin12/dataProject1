@@ -108,7 +108,7 @@
 ![Stacked bar chart offenses](Data/stacked_bar_chart_offenses.png)
 
 **Top 3 charges 2018-2022**
-![Top 3 charges 2018-2022](Data/top_3_charges_2018-2022].png)
+![Top 3 charges 2018-2022](Data/top_3_charges_2018-2022.png)
 
 
 
