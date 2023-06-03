@@ -42,10 +42,33 @@
 
 ## Description
 
-- Load the CSV file located on BPD website into a Pandas DataFrame
+- Load the CSV file located on BPD website into a Pandas DataFrame and display data
 
-- Display data
+- Define the desired time frame
 
+- Convert date values to EST timezone and filter the data based on the time frame
+
+- Apply the filter to get the narrowed down data to extract month and year from the arrestdatetime column
+
+- Isolate the 2018 data for mapping to define latitutde and longitude and remove the nulls
+  
+- Create a map to combine latitudes and longitudes into list. Display the map
+
+- Isolate the 2019 data for mapping to define latitutde and longitude and remove the nulls
+  
+- Create a map to combine latitudes and longitudes ito list. Display the map
+
+- Isolate the 2020 data for mapping to define latitutde and longitude and remove the nulls
+ 
+- Create a map to combine latitudes and longitudes ito list. Display the map
+
+- Isolate the 2021 data for mapping to define latitutde and longitude and remove the nulls
+  
+- Create a map to combine latitudes and longitudes ito list. Display the map
+
+- Isolate the 2022 data for mapping to define latitutde and longitude and remove the nulls
+
+- Create a map to combine latitudes and longitudes ito list. Display the map
 
 
 
