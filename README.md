@@ -84,15 +84,12 @@
 
 ## Conclusion
 
+
 ---
 
 ## Glossary
 
 ![2018 heatmap](Data/2018_heatmap.png)
-![2019 heatmap](Data/2019_heatmap.png)
-![2020 heatmap](Data/2020_heatmap.png)
-![2021 heatmap](Data/2021_heatmap.png)
-![2022 heatmap](Data/2022_heatmap.png)
 ![Arrests by month per year](Data/Arrests_by_month_year.png)
 ![Baltimore city arrests by month](Data/Baltimore_City_arrests_by_month.png)
 ![Baltimore city arrests spots4to10](Data/Baltimore_City_arrests_spots4to10.png)
