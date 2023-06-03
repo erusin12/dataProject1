@@ -1,4 +1,4 @@
-# STOP, YOU'RE UNDER ARREST.
+# The Pandemic’s Effect on Arrests in Baltimore City.
 
 ---
 
