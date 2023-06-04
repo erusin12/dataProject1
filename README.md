@@ -4,7 +4,7 @@
 
 ## Project Description
 
-**Description:** Our hypothesis is that COVID may have resulted in the decrease of arrest numbers in Baltimore City. We are examining Baltimore City’s arrest data compiled by the police department in 2010 through 2022. We had three questions to answer at the end of the project and these are: (i) did covid impact overall arrests for the city of Baltimore? (ii)did covid impact the type of charges? (iii) did covid change the geography of arrest locations?(comparing during and after covid)
+**Description:** Our hypothesis is that COVID may have resulted in the decrease of arrest numbers in Baltimore City. We are examining Baltimore City’s arrest data compiled by the police department in 2018 through 2022. We had three questions to answer at the end of the project and these are: (i) did covid impact overall arrests for the city of Baltimore? (ii)did covid impact the type of charges? (iii) did covid change the geography of arrest locations?(comparing during and after covid)
 
 ---
 
