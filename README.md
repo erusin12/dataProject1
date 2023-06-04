@@ -12,9 +12,9 @@
 1. [Project Description](#Project-Description)
 2. [Setup](#Setup)
 3. [Dependencies](#Dependencies)
-4. [Data Prep and Analysis Steps](#Data Prep and Analysis Steps)
+4. [Data Prep and Analysis Steps](#Data-Prep-and-Analysis-Steps)
 5. [Findings](#Findings)
-6. [Conclusion and Recommendations](#Conclusion and Recommendations)
+6. [Conclusion and Recommendations](#Conclusion-and-Recommendations)
 
 ---
 
