@@ -11,10 +11,10 @@
 ## Directory
 1. [Project Description](#Project-Description)
 2. [Setup](#Setup)
-3. [Installation](#Installation)
-4. [Overview](#Overview)
-5. [Conclusion](#Conclusion)
-6. [Glossary](#Glossary)
+3. [Dependencies](#Dependencies)
+4. [Data Prep and Analysis Steps](#Data Prep and Analysis Steps)
+5. [Findings](#Findings)
+6. [Conclusion and Recommendations](#Conclusion and Recommendations)
 
 ---
 
@@ -27,9 +27,9 @@
 
 ---
 
-## Installation
+## Dependencies 
 
-    #Dependencies and Setup
+  
     import numpy as np
     import pandas as pd
     import pytz
@@ -49,7 +49,7 @@
 
 ---
 
-## Overview
+## Data Prep and Analysis Steps
 
 - Load the CSV file located on BPD website into a Pandas DataFrame and display data
 
@@ -81,12 +81,7 @@
 
 ---
 
-## Conclusion
-
-
----
-
-## Glossary
+## Findings
 
 **2018 heatmap**
 ![2018 heatmap](Data/2018_heatmap.png)
@@ -109,7 +104,9 @@
 **Top 3 charges 2018-2022**
 ![Top 3 charges 2018-2022](Data/top_3_charges_2018-2022.png)
 
+---
 
+## Conclusion and Recommendations
 
 
 
