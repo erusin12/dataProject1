@@ -65,19 +65,19 @@
 
 - Isolate the 2019 data for mapping to define latitutde and longitude and remove the nulls
   
-- Create a map to combine latitudes and longitudes ito list. Display the map
+- Create a map to combine latitudes and longitudes itno list. Display the map
 
 - Isolate the 2020 data for mapping to define latitutde and longitude and remove the nulls
  
-- Create a map to combine latitudes and longitudes ito list. Display the map
+- Create a map to combine latitudes and longitudes into list. Display the map
 
 - Isolate the 2021 data for mapping to define latitutde and longitude and remove the nulls
   
-- Create a map to combine latitudes and longitudes ito list. Display the map
+- Create a map to combine latitudes and longitudes into list. Display the map
 
 - Isolate the 2022 data for mapping to define latitutde and longitude and remove the nulls
 
-- Create a map to combine latitudes and longitudes ito list. Display the map
+- Create a map to combine latitudes and longitudes into list. Display the map
 
 ---
 
