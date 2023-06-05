@@ -65,10 +65,17 @@
 
 ## Charts and Map files
 
-- data/Project1.ipnb - final script that conducted the data cleansing and prep steps, the exploratory analysis and generated the analysis charts.
-- m
-
-
+- Arrests_by_month_year.png; time series graph of total arrests 2018-2022
+- Baltimore_City_arrests_by_month.png; 5 line graphs of total arrests for each year 2018-2022
+- stacked_bar_chart_offenses.png; stacked bar graph by year for types of arrest charges
+- top_3_charges_2018-2022.png; line graph per year for the top 3 arrest charges
+- Baltimore_City_arrests.spots4to10.png; line graph per year for the next 7 arrest charges
+- Narcotics_vs_handgun_arrests.png; scatterplot of narcotics vs. handgun arrest charges
+- 2018_heatmap.png; Baltimore City heatmap of total arrest charges in 2018
+- 2019_heatmap.png; Baltimore City heatmap of total arrest charges in 2019
+- 2020_heatmap.png; Baltimore City heatmap of total arrest charges in 2020
+- 2021_heatmap.png; Baltimore City heatmap of total arrest charges in 2021
+- 2022_heatmap.png; Baltimore City heatmap of total arrest charges in 2022
 
 ---
 
