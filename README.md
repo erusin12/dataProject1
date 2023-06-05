@@ -4,7 +4,7 @@
 
 ## Project Description
 
-**Description:** Our hypothesis is that COVID may have resulted in the decrease of arrest numbers in Baltimore City. We are examining Baltimore City’s arrest data compiled by the police department in 2018 through 2022. We had three questions to answer at the end of the project and these are: (i) did covid impact overall arrests for the city of Baltimore? (ii)did covid impact the type of charges? (iii) did covid change the geography of arrest locations?(comparing during and after covid)
+**Description:** Our hypothesis is that COVID may have resulted in the decrease of arrest numbers in Baltimore City. We are examining Baltimore City’s arrest data compiled by the police department in 2018 through 2022. We had three questions to answer at the end of the project and these are: (i) did covid impact overall arrests for the city of Baltimore? (ii)did covid impact the types of charges differently? (iii) did covid change the geography of arrest locations?(comparing during and after covid)
 
 ---
 
@@ -12,23 +12,23 @@
 1. [Project Description](#Project-Description)
 2. [Setup](#Setup)
 3. [Dependencies](#Dependencies)
-4. [Data Prep and Analysis Steps](#Data-Prep-and-Analysis-Steps)
-5. [Findings](#Findings)
-6. [Conclusion and Recommendations](#Conclusion-and-Recommendations)
+4. [Input and Output files](#Input-and-Output-files)
+5. [Jupyter Notebook files](#Jupyter-Notebook-files)
+6. [Data Prep and Analysis Steps](#Data-Prep-and-Analysis-Steps)
+7. [Findings](#Findings)
+8. [Conclusion and Recommendations](#Conclusion-and-Recommendations)
 
 ---
 
 ## Setup: 
-- Import the dataset containing Baltimore Police Department arrest records
-- Clean and prepare the data by removing duplicates, missing values, and outliers 
-- Conduct exploratory data analysis to gain insight into trends, distributions and patterns 
-- Group the arrest records according to their charge codes and investigate the distribution of charges throughout the year 
-- Compare the prevalence of certain types of arrests
+- Imported the dataset containing Baltimore Police Department arrest records.
+- Cleaned and prepared the data by focusing on arrests in 2018-2022, grouping like arrests, focusing on top 10 types of arrest charges, and removing "unknown" arrest charge types.
+- Conducted exploratory data analysis to gain insight into trends, distributions, and patterns of arrest charges across 2018-2022. 
+- Compared the prevalence of certain types of arrests across the city of Baltimore for 2018-2022.
 
 ---
 
 ## Dependencies 
-
   
     import numpy as np
     import pandas as pd
@@ -46,6 +46,17 @@
     from matplotlib.ticker import FormatStrFormatter
     import warnings
     warnings.filterwarnings("ignore")
+
+---
+## Input-and-Output-files
+
+- data/Mouse_metadata.csv - information about each of the 248 mice.
+
+- Define the desired time frame
+
+
+
+
 
 ---
 
