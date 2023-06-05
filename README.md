@@ -17,8 +17,8 @@
 6. [Charts and Maps files](#Charts-and-Maps-files)
 7. [Analysis Presentation file](#Analysis-Presentation-file)
 8. [Data Prep and Analysis Steps](#Data-Prep-and-Analysis-Steps)
-9. [Findings and Conclusions](#Findings-and-Conclusions)
-10. [Limitations and Recommendations](#Limitations-and-Recommendations)
+9. [Insights](#Insights)
+10. [Conclusions and Recommendations](#Conclusions-and-Recommendations)
 11. [References](#References)
 ---
 
@@ -64,7 +64,7 @@
 
 ---
 
-## Charts and Map files
+## Charts and Maps files
 
 - Arrests_by_month_year.png; time series graph of total arrests 2018-2022
 - Baltimore_City_arrests_by_month.png; 5 line graphs of total arrests for each year 2018-2022
@@ -118,7 +118,7 @@
 
 ---
 
-## Findings
+## Insights
 
 **Arrests by month per year**
 ![Arrests by month per year](Data/Arrests_by_month_year.png)
@@ -171,7 +171,7 @@
 
 ---
 
-## Conclusion and Recommendations
+## Conclusions and Recommendations
 
 - Based on the above mentioned analysis results, we conclude that the Pandemic impacted the overall number and types of arrest charges in Baltimore City, as well as the geographic concentrations of these arrests.
 - The dataset BPD Arrests includes the number of arrests for specific types of charges and does not include information about the number and types of crimes committed.  Given that there may be a lag time between the time a crime is committed and an arrest, depending on the type of charges, demonstrating a direct effect of the pandemic on arrests vs. crime rate may not be sufficiently apparent or have the same trends.   Therefore we recommend evaluating incident data to see if there is a relationship between crimes reported and arrests.
