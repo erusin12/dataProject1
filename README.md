@@ -53,7 +53,7 @@
 
 ## Input file
 
-- data/BDP_Arrest.csv - dataset representing arrests made by the Baltimore Police Department from January 1, 2010 through March 12, 2023.
+- Data/BDP_Arrest.csv - dataset representing arrests made by the Baltimore Police Department from January 1, 2010 through March 12, 2023.
 
 ---
 
@@ -82,7 +82,7 @@
 
 ## Analysis Presentation file
 
-- Project 1-Baltimore City Arrests (June 5th, 2023)_Final.pptx
+- Data/Project 1-Baltimore City Arrests (June 5th, 2023).pptx
 
 ---
 
