@@ -59,7 +59,7 @@
 
 ## Jupyter Notebook files
 
-- Project1.ipnb - final script that conducted the data cleansing and prep steps, the exploratory analysis and generated the analysis charts.
+- dataProject1.ipnb - final script that conducted the data cleansing and prep steps, the exploratory analysis and generated the analysis charts.
 - maps.ipnb - final script that generated the maps for 2018-2022.
 
 ---
