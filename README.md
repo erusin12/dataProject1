@@ -124,26 +124,32 @@
 ![Arrests by month per year](Data/Arrests_by_month_year.png)
 
 - Number of arrests drops drastically in March 2020, with a visible trend shift prior and after March 2020.
-- The sharp peak after the COVID lockdown was likely due to people turning themselves in to not face jail time due to COVID restrictions with incarcerations
+- The sharp peak after the COVID lockdown was likely due to people turning themselves in to not face jail time due to COVID restrictions with incarcerations.
 
 **Stacked bar chart offenses**
 ![Stacked bar chart offenses](Data/stacked_bar_chart_offenses.png)
 
-
+- Number of “Assault” charges remained consistent across the 5 years.  "Assault" Charges likely didn’t see much of a change as most people were home without the ability to get time away and were dealing with stressors such as financial strain, concerns about the virus, and overall uncertainty.  This likely led to domestic disputes and assualts.
+- Number of “Failure to Appear” and “Larceny” charges decreased starting in 2020.  "Failure to Appear" arrests likely saw a decline as these were often the result of officers being proactive and serving warrants as well as officers conducting traffic stops and encountering citizens in public.  Police Departments were stressing the decrease of face-to-face interactions except for emergencies.  "Larceny" decreased as stores were closed so shoplifting wasn’t occurring (and again, people were not out and about to have their property stolen).
+- Largest drop occurred within “Narcotic” charges starting in 2020.  "Narcotic" charges are often proactive.  Units conducting undercover operations may have been assigned to other capacities at the height of COVID and the emphasis on drugs likely shifted.  "Narcotic" arrests also stem from traffic stops, which were likely only conducted for serious violations, and other street interactions, which again, were likely halted due to concerns of spreading COVID.
+- “Handgun” charges increased starting in 2020. It is unclear why "Handgun" charges increased (handgun charges are going to be concealing a handgun without a permit, possessing a handgun while being a convicted felon, carrying a weapon at prohibited locations (ie. School zones, airports. Etc)), and possessing a handgun while trafficking drugs.
 
 **Top 3 charges 2018-2022**
 ![Top 3 charges 2018-2022](Data/top_3_charges_2018-2022.png)
 
-
+- The top 3 occurring arrests were “Assault”, “Failure to Appear” and “Narcotic” charges.
+- Arrests for “Narcotic” and “Failure to Appear” charges had the steepest declines in 2020.
 
 **Baltimore city arrests spots4to10**
 ![Baltimore city arrests spots4to10](Data/Baltimore_City_arrests_spots4to10.png)
 
+- All types of arrests decreased in 2020 except for “Handgun” charges which continued to have an increasing trend.
 
 **Narcotics vs handgun arrests**
 ![Narcotics vs handgun arrests](Data/narcotics_vs_handgun_arrests.png)
 
-
+- We decided to look at the correlation between handgun violations and narcotic violations because when officers are stopping subjects, they are looking for weapons and they are looking for drugs.  Also, possessing a handgun while trafficking narcotics results in both handgun and narcotic arrests.  Therefore, we expected that there would be a positive linear relationship between Narcotics and Handgun arrests; however, we see that if we analyzed the relationship between Narcotics and Handguns across all 5 years (2018-2022), there is a slightly negative linear relationship with r=-0.404.  
+- Examining the graph, we can see that there are 2 types of relationships occurring; the left of the line demonstrates the relationship in post Pandemic (2020-2022) and on the right a different relationship in pre-Pandemic years (2018-2019).  We recommend creating 2 scatterplots to further examine the relationship between Narcotics and Handgun arrests.
 
 **2018 heatmap**
 ![2018 heatmap](Data/2018_heatmap.png)
