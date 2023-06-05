@@ -12,11 +12,12 @@
 1. [Project Description](#Project-Description)
 2. [Setup](#Setup)
 3. [Dependencies](#Dependencies)
-4. [Input and Output files](#Input-and-Output-files)
+4. [Input file](#Input-file)
 5. [Jupyter Notebook files](#Jupyter-Notebook-files)
-6. [Data Prep and Analysis Steps](#Data-Prep-and-Analysis-Steps)
-7. [Findings](#Findings)
-8. [Conclusion and Recommendations](#Conclusion-and-Recommendations)
+6. [Charts and Maps files](#Charts-and-Maps-files)
+7. [Data Prep and Analysis Steps](#Data-Prep-and-Analysis-Steps)
+8. [Findings](#Findings)
+9. [Conclusion and Recommendations](#Conclusion-and-Recommendations)
 
 ---
 
@@ -48,13 +49,24 @@
     warnings.filterwarnings("ignore")
 
 ---
-## Input-and-Output-files
 
-- data/Mouse_metadata.csv - information about each of the 248 mice.
+## Input file
 
-- Define the desired time frame
+- data/BDP_Arrest.csv - dataset representing arrests made by the Baltimore Police Department from January 1, 2010 through March 12, 2023.
 
+---
 
+## Jupyter Notebook files
+
+- data/Project1.ipnb - final script that conducted the data cleansing and prep steps, the exploratory analysis and generated the analysis charts.
+- maps.ipnb - final script that generated the maps for 2018-2022.
+
+---
+
+## Charts and Map files
+
+- data/Project1.ipnb - final script that conducted the data cleansing and prep steps, the exploratory analysis and generated the analysis charts.
+- m
 
 
 
