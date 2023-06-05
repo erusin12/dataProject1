@@ -148,8 +148,8 @@
 **Narcotics vs handgun arrests**
 ![Narcotics vs handgun arrests](Data/narcotics_vs_handgun_arrests.png)
 
-- We decided to look at the correlation between handgun violations and narcotic violations because when officers are stopping subjects, they are looking for weapons and they are looking for drugs.  Also, possessing a handgun while trafficking narcotics results in both handgun and narcotic arrests.  Therefore, we expected that there would be a positive linear relationship between Narcotics and Handgun arrests; however, we see that if we analyzed the relationship between Narcotics and Handguns across all 5 years (2018-2022), there is a slightly negative linear relationship with r=-0.404.  
-- Examining the graph, we can see that there are 2 types of relationships occurring; the left of the line demonstrates the relationship in post Pandemic (2020-2022) and on the right a different relationship in pre-Pandemic years (2018-2019).  We recommend creating 2 scatterplots to further examine the relationship between Narcotics and Handgun arrests.
+- We decided to look at the correlation between "Handgun" violations and "Narcotics" violations because when officers are stopping subjects, they are looking for weapons and they are looking for drugs.  Also, possessing a handgun while trafficking narcotics results in both handgun and narcotic arrests.  Therefore, we expected that there would be a positive linear relationship between "Narcotics" and "Handgun" arrests; however, we see that if we analyzed the relationship between "Narcotics" and "Handguns" across all 5 years (2018-2022), there is a slightly negative linear relationship with r=-0.404.  
+- Examining the graph, we can see that there are 2 types of relationships occurring; the left of the line demonstrates the relationship in post Pandemic years (2020-2022) and on the right a different relationship in pre-Pandemic years (2018-2019).  We recommend creating 2 scatterplots to further examine the relationship between "Narcotics" and "Handgun" arrests.
 
 **2018 heatmap**
 ![2018 heatmap](Data/2018_heatmap.png)
@@ -166,19 +166,24 @@
 **2022 heatmap**
 ![2022 heatmap](Data/2022_heatmap.png)
 
-
-
-
-
-
-
-
+- The largest concentration of arrests is at the center of the city. Others are clustered in the Northwest, Northeast, and Southeast of the city.
+- There is a general reduction in the concentration of arrests starting in 2020, especially at the outskirts of the city.
 
 ---
 
 ## Conclusion and Recommendations
 
+- Based on the above mentioned analysis results, we conclude that the Pandemic impacted the overall number and types of arrest charges in Baltimore City, as well as the geographic concentrations of these arrests.
+- The dataset BPD Arrests includes the number of arrests for specific types of charges and does not include information about the number and types of crimes committed.  Given that there may be a lag time between the time a crime is committed and an arrest, depending on the type of charges, demonstrating a direct effect of the pandemic on arrests vs. crime rate may not be sufficiently apparent or have the same trends.   Therefore we recommend evaluating incident data to see if there is a relationship between crimes reported and arrests.
+- Further investigation into the reasons why arrests for “Handgun” charges increased after 2019, and had a different trend pattern than the other types of arrest, is recommended.  For example, were there any special police department initiatives in place for “handgun control”, that may have been initiated by the Mayor of Baltimore or the Governor of Maryland?
 
+---
+
+## References
+
+- Data for the BDP_Arrest.csv was imported from url: data.baltimorecity.gov, and is intended for educational purposes only. 
+- https://www.neighborhoodscout.com/blog/top100dangerous, was the source for generating the table of NeighborhoodScout’s top 30 most dangerous cities in the U.S.
+ Based on violent crime rates per 1,000 residents, among cities with 25,000 or more residents.
 
 
 
