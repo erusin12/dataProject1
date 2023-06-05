@@ -15,10 +15,11 @@
 4. [Input file](#Input-file)
 5. [Jupyter Notebook files](#Jupyter-Notebook-files)
 6. [Charts and Maps files](#Charts-and-Maps-files)
-7. [Data Prep and Analysis Steps](#Data-Prep-and-Analysis-Steps)
-8. [Findings](#Findings)
-9. [Conclusion and Recommendations](#Conclusion-and-Recommendations)
-
+7. [Analysis Presentation file](#Analysis-Presentation-file)
+8. [Data Prep and Analysis Steps](#Data-Prep-and-Analysis-Steps)
+9. [Findings and Conclusions](#Findings-and-Conclusions)
+10. [Limitations and Recommendations](#Limitations-and-Recommendations)
+11. [References](#References)
 ---
 
 ## Setup: 
@@ -58,7 +59,7 @@
 
 ## Jupyter Notebook files
 
-- data/Project1.ipnb - final script that conducted the data cleansing and prep steps, the exploratory analysis and generated the analysis charts.
+- Project1.ipnb - final script that conducted the data cleansing and prep steps, the exploratory analysis and generated the analysis charts.
 - maps.ipnb - final script that generated the maps for 2018-2022.
 
 ---
@@ -79,60 +80,93 @@
 
 ---
 
+## Analysis Presentation file
+
+- Project 1-Baltimore City Arrests (June 5th, 2023)_Final.pptx
+
+---
+
 ## Data Prep and Analysis Steps
 
-- Load the CSV file located on BPD website into a Pandas DataFrame and display data
+- Loaded the CSV file located on BPD website into a Pandas DataFrame and displayed data.
 
-- Define the desired time frame
+- Defined the desired time frame, 1/1/2018-12/31/2022.
 
-- Convert date values to EST timezone and filter the data based on the time frame
+- Converted date values to EST timezone and filtered the data based on the time frame.
 
-- Apply the filter to get the narrowed down data to extract month and year from the arrestdatetime column
+- Applied the filter to get the narrowed down data to extract month and year from the arrestdatetime column.
 
-- Isolate the 2018 data for mapping to define latitutde and longitude and remove the nulls
+- Isolated the 2018 data for mapping to define latitutde and longitude and remove the nulls
   
-- Create a map to combine latitudes and longitudes into list. Display the map
+- Created a map to combine latitudes and longitudes into list. Displayed the map.
 
-- Isolate the 2019 data for mapping to define latitutde and longitude and remove the nulls
+- Isolated the 2019 data for mapping to define latitutde and longitude and remove the nulls.
   
-- Create a map to combine latitudes and longitudes into list. Display the map
+- Created a map to combine latitudes and longitudes into list. Displayed the map.
 
-- Isolate the 2020 data for mapping to define latitutde and longitude and remove the nulls
+- Isolated the 2020 data for mapping to define latitutde and longitude and remove the nulls.
  
-- Create a map to combine latitudes and longitudes into list. Display the map
+- Created a map to combine latitudes and longitudes into list. Displayed the map.
 
-- Isolate the 2021 data for mapping to define latitutde and longitude and remove the nulls
+- Isolated the 2021 data for mapping to define latitutde and longitude and remove the nulls.
   
-- Create a map to combine latitudes and longitudes into list. Display the map
+- Created a map to combine latitudes and longitudes into list. Displayed the map.
 
-- Isolate the 2022 data for mapping to define latitutde and longitude and remove the nulls
+- Isolated the 2022 data for mapping to define latitutde and longitude and remove the nulls.
 
-- Create a map to combine latitudes and longitudes into list. Display the map
+- Created a map to combine latitudes and longitudes into list. Displayed the map.
 
 ---
 
 ## Findings
 
-**2018 heatmap**
-![2018 heatmap](Data/2018_heatmap.png)
-
 **Arrests by month per year**
 ![Arrests by month per year](Data/Arrests_by_month_year.png)
 
-**Baltimore city arrests by month**
-![Baltimore city arrests by month](Data/Baltimore_City_arrests_by_month.png)
-
-**Baltimore city arrests spots4to10**
-![Baltimore city arrests spots4to10](Data/Baltimore_City_arrests_spots4to10.png)
-
-**Narcotics vs handgun arrests**
-![Narcotics vs handgun arrests](Data/narcotics_vs_handgun_arrests.png)
+- Number of arrests drops drastically in March 2020, with a visible trend shift prior and after March 2020.
+- The sharp peak after the COVID lockdown was likely due to people turning themselves in to not face jail time due to COVID restrictions with incarcerations
 
 **Stacked bar chart offenses**
 ![Stacked bar chart offenses](Data/stacked_bar_chart_offenses.png)
 
+
+
 **Top 3 charges 2018-2022**
 ![Top 3 charges 2018-2022](Data/top_3_charges_2018-2022.png)
+
+
+
+**Baltimore city arrests spots4to10**
+![Baltimore city arrests spots4to10](Data/Baltimore_City_arrests_spots4to10.png)
+
+
+**Narcotics vs handgun arrests**
+![Narcotics vs handgun arrests](Data/narcotics_vs_handgun_arrests.png)
+
+
+
+**2018 heatmap**
+![2018 heatmap](Data/2018_heatmap.png)
+
+**2019 heatmap**
+![2019 heatmap](Data/2019_heatmap.png)
+
+**2020 heatmap**
+![2020 heatmap](Data/2020_heatmap.png)
+
+**2021 heatmap**
+![2021 heatmap](Data/2021_heatmap.png)
+
+**2022 heatmap**
+![2022 heatmap](Data/2022_heatmap.png)
+
+
+
+
+
+
+
+
 
 ---
 
